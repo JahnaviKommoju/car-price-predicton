@@ -1,0 +1,70 @@
+body{
+    background-image:url(B.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+
+.Y{
+    background: size 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.A{
+    border: 6px solid;
+    border-color: rgb(244, 160, 13);
+    text-align: center;
+    border-radius: 6px;
+
+
+    
+    
+}
+    
+.B{
+    text-align:center;
+}
+
+.C{
+    text-align:center;
+
+    
+    
+
+}
+
+.D{
+    text-align:center;
+}
+
+.E{
+    text-align:center;
+}
+
+
+.F{
+    text-align:center;
+}
+
+.G{
+    text-align:center;
+}
+
+.M{
+    text-align:center;
+}
+
+.H{
+    text-align:center;
+
+}
+
+.J{
+    text-align:center;
+}
+/* Style the video: 100% width and height to cover the entire window */
+
+
+
+
